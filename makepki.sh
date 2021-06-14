@@ -11,7 +11,7 @@
 # revoke.sh     Revokes a cert issued by the lowest issuing tier CA
 #
 
-VER=21
+VER=22
 MAXTIERS=30
 MINTIERS=1
 
